@@ -9,7 +9,7 @@
 <div align="center">
  
 - 🔭 I’m currently working as a **Programmer Analyst** in **Cognizant.**
-- 🌱  Interested in **Software Development** and **Competitive Programming.**
+- 💻  Interested in **Competitive Programming** and **Software Development.**
 - 🌱 I’m currently exploring **Low level System Design.**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pratik-palsikar/)
