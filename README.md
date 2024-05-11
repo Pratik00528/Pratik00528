@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pratik00528.Pratik00528" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=200&color=FAFFF9&background=000000&duration=4000&lines=Hey+there!+👋;+I'm+Pratik+Palsikar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=65&center=true&vCenter=true&width=900&height=180&color=FFFFFF&background=1F1F1F&duration=3500&lines=Hey+there!+👋;+I'm+Pratik+Palsikar!;" />
 </h1>
 
 <br/>
