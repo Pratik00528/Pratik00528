@@ -1,22 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pratik00528.Pratik00528" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=70&color=FAFFF9&background=000000&duration=4000&lines=Hi+There!+👋;+I'm+Pratik+Palsikar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FAFFF9&background=000000&duration=4000&lines=Hi+There!+👋;+I'm+Pratik+Palsikar!;" />
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as a **Programmer Analyst** in **Cognizant.**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🔭 I’m currently working as a **Programmer Analyst** in **Cognizant.**
+- 🌱 I’m currently exploring **Low level System Design.**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pratik-palsikar/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Y1FODZpddyZG0D8NQbv5nye31IYtOHav/view?usp=drive_link)
 
  </div>
  
@@ -45,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
