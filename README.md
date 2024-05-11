@@ -1,12 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pratik00528.Pratik00528" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FAFFF9&background=000000&duration=4000&lines=Hey+there!+👋;+I'm+Pratik+Palsikar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=200&color=FAFFF9&background=000000&duration=4000&lines=Hey+there!+👋;+I'm+Pratik+Palsikar!;" />
 </h1>
 
 <br/>
-
-<div align="center">
  
 - 🔭 Currently working as a **Programmer Analyst** in **Cognizant.**
 - 💻 Interested in **Competitive Programming** and **Software Development.**
