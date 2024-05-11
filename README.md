@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pratik00528.Pratik00528" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FAFFF9&background=000000&duration=4000&lines=Hi+There!+👋;+I'm+Pratik+Palsikar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FAFFF9&background=000000&duration=4000&lines=Hey+there!+👋;+I'm+Pratik+Palsikar!;" />
 </h1>
 
 <br/>
@@ -9,6 +9,7 @@
 <div align="center">
  
 - 🔭 I’m currently working as a **Programmer Analyst** in **Cognizant.**
+- 🌱  Interested in **Software Development** and **Competitive Programming.**
 - 🌱 I’m currently exploring **Low level System Design.**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pratik-palsikar/)
@@ -33,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,flask,nodejs,react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,java,cpp,c,postman,latex" /><br>
 </div>
 
 <br/>
@@ -50,7 +51,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
