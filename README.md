@@ -8,9 +8,9 @@
 
 <div align="center">
  
-- 🔭 I’m currently working as a **Programmer Analyst** in **Cognizant.**
+- 🔭 Currently working as a **Programmer Analyst** in **Cognizant.**
 - 💻 Interested in **Competitive Programming** and **Software Development.**
-- 🌱 Currently exploring **Low level System Design.**
+- 🌱 Currently learning and exploring **Low level System Design.**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pratik-palsikar/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Y1FODZpddyZG0D8NQbv5nye31IYtOHav/view?usp=drive_link)
