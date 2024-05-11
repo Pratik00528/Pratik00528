@@ -19,7 +19,7 @@
 
  <hr/>
  
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> Languages - Frameworks - Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,flask,nodejs,react,bootstrap,html,css,vscode,github,git" />
@@ -62,9 +62,3 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik00528&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
