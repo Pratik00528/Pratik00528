@@ -33,11 +33,11 @@
 <br/>
 <div align="center">
 <p>
-<a href = "mailto:pratik00528@gmail.com"> <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> </a>
-<a href = "https://www.linkedin.com/in/pratik-palsikar/"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> </a>
-<a href = "https://leetcode.com/pratik00528/"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/> </a>
-<a href = "https://www.codechef.com/users/pratik00528"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/> </a>
-<a href = "https://codeforces.com/profile/pratik00528"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo"/> </a>
+<a href = "mailto:pratik00528@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
+<a href = "https://www.linkedin.com/in/pratik-palsikar/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href = "https://leetcode.com/pratik00528/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a>
+<a href = "https://www.codechef.com/users/pratik00528"><img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/></a>
+<a href = "https://codeforces.com/profile/pratik00528"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo"/></a>
 </div>
 </p>
 
