@@ -15,7 +15,7 @@
 - 🌱 Currently learning and exploring **Low level System Design.**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories).
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pratik-palsikar/).
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Y1FODZpddyZG0D8NQbv5nye31IYtOHav/view?usp=drive_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/164qFerXSuH7B7yAS_eXo3zGcVvTRmGR0/view).
 
  <hr/>
  
