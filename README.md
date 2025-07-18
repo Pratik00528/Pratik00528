@@ -10,7 +10,7 @@
 
 <br/>
  
-- 🔭 Currently working as a **Programmer Analyst** in **Cognizant.**
+- 🔭 Currently working as a **Software Engineer** in **Cognizant.**
 - 💻 Interested in **Competitive Programming** and **Software Development.**
 - 🌱 Currently learning and exploring **Low level System Design.**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pratik00528?tab=repositories).
